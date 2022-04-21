@@ -18,6 +18,7 @@ export class PropertyCardComponent {
     "Id": 1000,
     "Name":"Initialiser Birla House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "Default.png"
   }
 }

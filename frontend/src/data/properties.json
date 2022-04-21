@@ -3,49 +3,58 @@
     "Id": 1,
     "Name":"Birla House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "prop-main-1.webp"
   },
   {
     "Id": 2,
     "Name":"Birla2 House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "prop-main-2.webp"
   },
   {
     "Id": 3,
     "Name":"Birla3 House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "prop-main-3.webp"
   },
   {
     "Id": 4,
     "Name":"Birla4 House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "prop-main-4.webp"
   },
   {
     "Id": 5,
     "Name":"Birla5 House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "Default.png"
+
   },
   {
     "Id": 6,
     "Name":"Birla6 House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "Default.png"
   },
   {
     "Id": 7,
     "Name":"Birla7 House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "Default.png"
   },
   {
     "Id": 8,
     "Name":"Birla8 House",
     "Type": "House",
-    "Price": 12000
+    "Price": 12000,
+    "MainImage": "Default.png"
   }
 
 
