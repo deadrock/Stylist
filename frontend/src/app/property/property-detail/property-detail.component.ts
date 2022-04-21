@@ -17,7 +17,7 @@ public propertyId: number;
         this.propertyId=+params['id']
       }
     )
-
+ 
 
    }
 
