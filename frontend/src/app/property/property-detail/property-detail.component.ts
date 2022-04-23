@@ -14,10 +14,10 @@ public propertyId: number;
 
     this.route.params.subscribe(
       (params) => {
-        this.propertyId=+params['id']
+        this.propertyId=+params['id']  // the + makes the string a number'
       }
     )
- 
+
 
    }
 

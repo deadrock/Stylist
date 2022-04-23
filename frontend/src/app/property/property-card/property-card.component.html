@@ -1,7 +1,9 @@
 <div class="card">
 
   <div class="card-img-wrapper">
-    <img class="card-img-top" src="assets/Images/Property/{{Property.MainImage}}" />
+    <img *ngIf="Property.MainImage" class="card-img-top" src="assets/Images/Property/{{Property.MainImage}}" />
+
+    <img *ngIf="!Property.MainImage" class="card-img-top" src="assets/Images/Property/Default2.png" />
 
   <ul class="list-inline text-center card-member-icons card-animate">
     <li class="list-inline-item">
@@ -18,3 +20,4 @@
     <h3>{{ Property.Price }}</h3>
   </div>
 </div>
+

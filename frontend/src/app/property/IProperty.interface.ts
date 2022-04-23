@@ -3,5 +3,5 @@ export interface IProperty {
   Name: string;
   Type: string;
   Price: Number;
-  MainImage: string;
+  MainImage?: string;
 }
